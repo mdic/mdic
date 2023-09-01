@@ -1,5 +1,8 @@
-### Hi there 👋
+I'm a linguist, specialised in Corpus and Cognitive Linguistics, and CADS (Corpus-Assisted Discourse Studies). 
 
+I have worked in several interdisciplinary projects, developing methods and tools to collaborate with different disciplines - from the project design to the data analysis, using Free/Libre and Open Source Software (FLOSS) - providing a linguistic perspective to better understand the data under investigation.
+
+I teach academic modules in Digital Humanities, Corpus Linguistics, and Text Mining.
 <!--
 **mdic/mdic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
