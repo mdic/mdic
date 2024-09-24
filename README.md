@@ -1,8 +1,10 @@
-I'm a linguist, specialised in Corpus and Cognitive Linguistics, and CADS (Corpus-Assisted Discourse Studies). 
+I'm a linguist, and my main areas of research are Corpus Linguistics, Discourse Studies, and Cognitive Linguistics. My research interests extend into the Digital Humanities, exploring the impact of digital technologies on language acquisition, use, teaching, and analysis, both in academic and non-academic contexts.
 
 I have worked in several interdisciplinary projects, developing methods and tools to collaborate with different disciplines - from the project design to the data analysis, using Free/Libre and Open Source Software (FLOSS) - providing a linguistic perspective to better understand the data under investigation.
 
 I teach academic modules in Digital Humanities, Corpus Linguistics, and Text Mining.
+
+Check out [my website](https://infogrep.it) for more details 
 <!--
 **mdic/mdic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
